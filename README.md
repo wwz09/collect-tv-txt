@@ -11,10 +11,10 @@
 |白名单| （whitelist_auto.txt） |  不定时 | 高响应源汇至直播源   | |
 
 ```
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.kkgithub.com/wwz09/collect-tv-txt/main/merged_output.txt
 ```
 ```
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
+https://raw.kkgithub.com/wwz09/collect-tv-txt/main/merged_output.m3u
 ```
 直播源（txt）短链（Backup）： https://tinyurl.com/tv-live-txt
 
