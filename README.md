@@ -18,7 +18,7 @@ https://raw.kkgithub.com/wwz09/collect-tv-txt/main/merged_output.m3u
 ```
 直播源（txt）短链（Backup）：  http://waurl.cn/0Cdi
 
-直播源（m3u）短链（Backup）：  https://raw.kkgithub.com/wwz09/collect-tv-txt/main/merged_output.m3u
+直播源（m3u）短链（Backup）：  http://waurl.cn/iKcN
 
 
 
