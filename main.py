@@ -531,8 +531,8 @@ all_lines =  ["专享央视,#genre#"] + read_txt_to_array('主频道/♪优质�
              ["咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
              ["央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
-             ["️四川频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sc_lines))) + ['\n']
-            
+             ["️四川频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sc_lines))) + ['\n'] + \
+             ["️浙江频道,#genre#"] + sort_data(zj_dictionary,set(correct_name_data(corrections_name,zj_lines))) + ['\n']
              
 
 # # custom定制
