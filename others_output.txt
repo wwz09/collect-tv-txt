@@ -42935,6 +42935,7 @@ CETV4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign=
 CETV4,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台4.m3u8&sign=h51x7y
 CETV4,http://beijinglive.online.domybox.com:91/live/CETV4-1500k/live.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
+湖南卫视,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8
 辽宁卫视,http://112.6.165.112:9901/tsfile/live/0121_1.m3u8?key=txiptv
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
