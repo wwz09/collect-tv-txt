@@ -42916,6 +42916,7 @@ CCTV17,http://ygbh666.cn/aikmigu.php?id=cctv17
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,https://vip.taoiptv.cn/source/itv.php?id=CGTN.m3u8&sign=h51x7y
 CGTN,http://114.55.117.163:8081/iptv/itv.php?id=CGTN.m3u8&sign=h51x7y
+CGTN,http://beijinglive.online.domybox.com:91/live/CCTVNEWS-1500k/live.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN记录,https://vip.taoiptv.cn/source/itv.php?id=CGTN记录.m3u8&sign=h51x7y
@@ -42925,10 +42926,14 @@ CETV1,https://vip.taoiptv.cn/source/gitv.php?id=CETV1hd-8M.m3u8&sign=h51x7y
 CETV1,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台1.m3u8&sign=h51x7y
 CETV1,http://114.55.117.163:8081/iptv/gitv.php?id=CETV1hd-8M.m3u8&sign=h51x7y
 CETV1,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台1.m3u8&sign=h51x7y
+CETV1,http://beijinglive.online.domybox.com:91/live/CETV1hd-8M/live.m3u8
 CETV2,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-2.m3u8&sign=h51x7y
+CETV2,http://beijinglive.online.domybox.com:91/live/CETV2-1500k/live.m3u8
 CETV3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-3.m3u8&sign=h51x7y
+CETV3,http://beijinglive.online.domybox.com:91/live/CETV3-1500k/live.m3u8
 CETV4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign=h51x7y
 CETV4,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台4.m3u8&sign=h51x7y
+CETV4,http://beijinglive.online.domybox.com:91/live/CETV4-1500k/live.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
 辽宁卫视,http://112.6.165.112:9901/tsfile/live/0121_1.m3u8?key=txiptv
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
