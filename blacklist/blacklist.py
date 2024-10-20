@@ -321,7 +321,7 @@ def save_blackhost_to_txt(filename=f"{datetime.now().strftime("%Y%m%d_%H_%M_%S")
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+        'https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt',
         'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
         'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
         'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', 
@@ -346,6 +346,7 @@ if __name__ == "__main__":
         'http://gg.gg/cctvgg',   # 【2024-08-10】
         'https://2883.kstore.space/%E2%91%A0%E7%8C%ABTV%E7%BA%BF%E8%B7%AF',   # 【2024-09-10】
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt'
+        
         #'',
         #''
     ]
