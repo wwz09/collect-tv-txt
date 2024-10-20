@@ -322,6 +322,8 @@ if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
         'https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt',
+        'https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u',
+        'https://ghp.ci/https://raw.githubusercontent.com/kilvn/IPTV/master/iptv.m3u',
         'https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt',
         'https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo.txt',
         'https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt', 
@@ -331,7 +333,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt', # 【2024-08-02 16:48:40】#每日更新1次
         'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   # 2024-08-05 每天更新一次，量太多转到blacklist处理
         'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',   # 【2024-08-07】#每日更新2次
-        'https://2883.kstore.space/%E2%91%A0%E7%8C%ABTV%E7%BA%BF%E8%B7%AF',   # 【2024-09-10】
+        'https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/master/cn_all.m3u',   # 【2024-09-10】
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt'
         
         #'',
