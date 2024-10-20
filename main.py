@@ -545,7 +545,7 @@ all_lines =  ["专享央视,#genre#"] + read_txt_to_array('主频道/♪优质�
 # 将合并后的文本写入文件
 # output_file = "merged_output.txt"
 output_file_simple = "merged_output.txt"
-output_file_simple = "merged_output_simple.txt"
+# output_file_simple = "merged_output_simple.txt"
 others_file = "others_output.txt"
 
 # # custom定制
