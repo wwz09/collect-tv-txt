@@ -514,13 +514,14 @@ about_video2=" "
 version=formatted_time+" "+about_video1
 about="关于本源"+about_video2
 # 瘦身版
-all_lines_simple = ["专享卫视,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
-             ["优质个源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
-             ["咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
-             ["️湖南频道,#genre#"] + sort_data(hn_dictionary,set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
-             ["️湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
-             ["️广东频道,#genre#"] + sort_data(gd_dictionary,set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
-             ["️浙江频道,#genre#"] + sort_data(zj_dictionary,set(correct_name_data(corrections_name,zj_lines))) + ['\n']
+all_lines_simple = ["专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
+                   ["专享卫视,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
+                   ["优质个源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
+                   ["️四川频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sc_lines))) + ['\n'] + \
+                   ["️湖南频道,#genre#"] + sort_data(hn_dictionary,set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
+                   ["️湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
+                   ["️广东频道,#genre#"] + sort_data(gd_dictionary,set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
+                   ["️浙江频道,#genre#"] + sort_data(zj_dictionary,set(correct_name_data(corrections_name,zj_lines))) + ['\n']
              
 
 # 合并所有对象中的行文本（去重，排序后拼接）
@@ -542,7 +543,8 @@ all_lines =  ["专享央视,#genre#"] + read_txt_to_array('主频道/♪优质�
 
 
 # 将合并后的文本写入文件
-output_file = "merged_output.txt"
+# output_file = "merged_output.txt"
+output_file_simple = "merged_output.txt"
 output_file_simple = "merged_output_simple.txt"
 others_file = "others_output.txt"
 
