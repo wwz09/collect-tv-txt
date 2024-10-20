@@ -31575,21 +31575,6 @@ NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/
 
 
 ◆◆◆　https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
-东南卫视,http://36.40.237.239:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-内蒙古卫视,http://36.40.237.239:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://36.40.237.239:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://36.40.237.239:9999/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://36.40.237.239:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://36.40.237.239:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://36.40.237.239:9999/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://36.40.237.239:9999/tsfile/live/0123_2.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://36.40.237.239:9999/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://36.40.237.239:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://36.40.237.239:9999/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://36.40.237.239:9999/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://36.40.237.239:9999/tsfile/live/0132_6.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://36.40.237.239:9999/tsfile/live/0130_3.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://36.40.237.239:9999/tsfile/live/0131_3.m3u8?key=txiptv&playlive=0&authid=0
 
 
 ◆◆◆　http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
