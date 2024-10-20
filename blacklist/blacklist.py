@@ -326,10 +326,10 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
         'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', 
         'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt',  # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u',  # 【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt',  # 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  # 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt',  # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt',  #【2024-08-01 10:40:29】
+        'https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt',  #【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8', #15分钟更新1次   # 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt', # 【2024-08-01 10:40:29】
         'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt', # 【2024-08-02 16:48:40】#每日更新1次
